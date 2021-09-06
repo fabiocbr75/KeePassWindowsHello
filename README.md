@@ -10,8 +10,10 @@
 # Compile & Install:
 
 In order to compile you have to use Visual Studio 2019 Comunity Edition.
-The binary produced works only with the Keepass version used as reference and present on "ext" folder.
-You need to compile also KeePass with .NET 4.8 and replace the installed one. This step is required because the Windows Runtime library require at least .NET 4.6 insted KeePass is compiled with .NET 4.0.
+
+The binary produced works only with the Keepass version used as reference and present on "ext" folder. The current version is 2.48.
+
+You need to compile also KeePass with .NET 4.8 and replace the installed one. This step is required because the Windows Runtime library require at least .NET 4.6 instead KeePass is compiled with .NET 4.0.
 
 To install on Keepass, you have to copy the following files into "KeePass Password Safe 2\Plugins" folder:
   - FingerprintPlugin.dll
