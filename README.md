@@ -28,3 +28,10 @@ Set the MasterPassword on the textbox.<br>
 The password is saved locally crypted with DPAPI in AppData\Roaming\KeePassWindowsHelloPlugin\DbMasterKey.dat.<br>
 
 Now when you open Keepass you have to deselect MasterPassword checkbox and select "Key File" with "Fingerprint Key Provider" as provider.
+
+
+# Portable
+
+Here there is my test environment. As I mention before, the exe file is the recompiled version of 2.48.1 without signing. 
+
+https://1drv.ms/u/s!Ajk6HSaqH4NngdkTmo057tOd6fqTeg?e=NWTyBs
