@@ -4,7 +4,7 @@
 
 # Technology used:
 
-  - Using Windows Hello with new Windows Runtime library (No UWP Desktop Bride needed)
+  - Using Windows Hello with new Windows Runtime library (No UWP Desktop Bride needed). Compatibile set to Windows 10, version 2004.
   - DPAPI to crypt\encrypt encrypt sensitive data
 
 # Compile & Install:
