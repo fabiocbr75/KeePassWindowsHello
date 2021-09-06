@@ -21,10 +21,10 @@ To install on Keepass, you have to copy the following files into "KeePass Passwo
 
 # Use:
 
-The first time open the keepass database with MasterPassword. 
-Now on Tools Menù is present a new item "Fingerprint".
-After you select fingerprint a new window is opened.
-Set the MasterPassword on the textbox.
-The password is saved locally crypted with DPAPI in AppData\Roaming\KeePassWindowsHelloPlugin\DbMasterKey.dat.
+The first time open the keepass database with MasterPassword.<br>
+Now on Tools Menù is present a new item "Fingerprint".<br>
+After you select fingerprint a new window is opened.<br>
+Set the MasterPassword on the textbox.<br>
+The password is saved locally crypted with DPAPI in AppData\Roaming\KeePassWindowsHelloPlugin\DbMasterKey.dat.<br>
 
 Now when you open Keepass you have to deselect MasterPassword checkbox and select "Key File" with "Fingerprint Key Provider" as provider.
